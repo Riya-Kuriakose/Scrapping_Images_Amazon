@@ -13,4 +13,6 @@ Steps:
 
 Create a scraper using the link and the image url in the link.
 Create alias for the rule generated.
-Run similar scraper library on any similar link by looping through the links you need.
+Run the scraper model on any similar link by looping through the links you need.
+
+
